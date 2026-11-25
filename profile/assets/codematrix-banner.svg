@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">CodeMatrix STUDIO</title>
+  <desc id="desc">Фирменный сине-чёрный баннер CodeMatrix STUDIO</desc>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08c9ef"/><stop offset=".52" stop-color="#087bfa"/><stop offset="1" stop-color="#123ed7"/>
+    </linearGradient>
+    <pattern id="grid" width="90" height="90" patternUnits="userSpaceOnUse">
+      <path d="M90 0H0V90" fill="none" stroke="#092747" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="8" fill="#030b16"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity=".8"/>
+  <path d="M0 0H180L0 180Z M1200 300H1035L1200 135Z" fill="#061a35"/>
+  <path d="M0 160 160 0h90L0 250Z M1200 145 1045 300h-90l245-245Z" fill="none" stroke="#075fe8" stroke-width="3"/>
+  <g transform="translate(70 42)">
+    <path d="M104 4 214 68 168 95 104 58 44 93 44 170 104 205 164 170 210 197 104 258 0 198 0 65Z" fill="url(#blue)"/>
+    <path d="M104 83 158 114 116 139 116 180 75 156 75 111Z" fill="url(#blue)"/>
+    <path d="M210 197 210 231 104 292 104 258Z" fill="#073ecb" opacity=".9"/>
+  </g>
+  <path d="M330 48V252" stroke="#47617d" stroke-width="2"/>
+  <text x="382" y="158" fill="#f7f9fc" font-family="Arial, Helvetica, sans-serif" font-size="91" font-weight="700" letter-spacing="2">CODEMATRIX</text>
+  <path d="M882 91 918 158h-24l-12-23-12 23h-24Z" fill="url(#blue)"/>
+  <path d="M391 202H535 M1012 202H1152" stroke="#91a6c0" stroke-width="3"/>
+  <text x="570" y="216" fill="#a9bbd0" font-family="Arial, Helvetica, sans-serif" font-size="38" letter-spacing="22">STUDIO</text>
+</svg>
