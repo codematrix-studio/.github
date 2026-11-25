@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="assets/codematrix-banner.svg" alt="CodeMatrix STUDIO" width="100%">
+</p>
+
 # CodeMatrix STUDIO
 
-Независимая студия разработки под руководством PHP / 1С-Битрикс разработчика.
+Независимый разработчик PHP и 1С-Битрикс. Работаю самостоятельно, напрямую с заказчиками и как внешний разработчик для команд и веб-студий.
 
 Специализируюсь на backend-разработке и решении технических задач для проектов на 1С-Битрикс: от отдельных доработок и интеграций до модернизации и сопровождения существующих сайтов.
 
@@ -29,5 +33,6 @@
 
 ## Контакты
 
+- Электронная почта: [codematrix.studio@gmail.com](mailto:codematrix.studio@gmail.com)
 - Сайт: https://codematrix-studio.github.io/
 - GitHub: https://github.com/codematrix-studio
