@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/codematrix-banner.svg" alt="CodeMatrix STUDIO" width="100%">
+  <img src="assets/logo_big.png" alt="CodeMatrix STUDIO" width="100%">
 </p>
 
 # CodeMatrix STUDIO
