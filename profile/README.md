@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codematrix-studio/.github/main/profile/assets/codematrix-banner.svg" alt="CodeMatrix STUDIO" width="100%">
+  <img src="assets/logo_big.png" alt="CodeMatrix STUDIO" width="100%">
 </p>
 
 # CodeMatrix STUDIO
